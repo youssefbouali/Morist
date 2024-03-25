@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><project name="DGS Deploiment, Gestion et Supervision d’une infrastructure linux" company="ISTA" webLink="https://os.wsoum.ml/dgs/" view-date="2024-03-01" view-index="0" gantt-divider-location="597" resource-divider-location="407" version="3.2.3230" locale="fr_FR">
+    <description>
+        <![CDATA[Le projet consiste en la réalisation de DGS Déploiement, Gestion et Supervision d’une infrastructure linux centralisée et sécurisée: Déploiement des images des systèmes centralisée avec pxelinux, Clonage des systèmes linux avec Systemback, Implémentation d’une réseau vpn pour sécurise la connexion, Gestion de serveur avec l’interface Webmin et Supervision et des machines déployé avec Nagios.]]>
+    </description>
+    <view zooming-state="default:9" id="gantt-chart">
+        <field id="tpd3" name="Nom" width="397" order="0"/>
+        <field id="tpd4" name="Date de début" width="102" order="1"/>
+        <field id="tpd5" name="Date de fin" width="97" order="2"/>
+        <option id="filter.completedTasks" value="false"/>
+        <option id="color.recent">
+            <![CDATA[#666666 #000000 #00ffff #ff0000 #003399 #66ff33 #33ff33]]>
+        </option>
+    </view>
+    <view id="resource-table">
+        <field id="0" name="Nom" width="263" order="0"/>
+        <field id="1" name="Rôle par défaut" width="140" order="1"/>
+    </view>
+    <!-- -->
+    <calendars>
+        <day-types>
+            <day-type id="0"/>
+            <day-type id="1"/>
+            <default-week id="1" name="default" sun="0" mon="0" tue="0" wed="0" thu="0" fri="0" sat="0"/>
+            <only-show-weekends value="false"/>
+            <overriden-day-types/>
+            <days/>
+        </day-types>
+    </calendars>
+    <tasks empty-milestones="true">
+        <taskproperties>
+            <taskproperty id="tpd0" name="type" type="default" valuetype="icon"/>
+            <taskproperty id="tpd1" name="priority" type="default" valuetype="icon"/>
+            <taskproperty id="tpd2" name="info" type="default" valuetype="icon"/>
+            <taskproperty id="tpd3" name="name" type="default" valuetype="text"/>
+            <taskproperty id="tpd4" name="begindate" type="default" valuetype="date"/>
+            <taskproperty id="tpd5" name="enddate" type="default" valuetype="date"/>
+            <taskproperty id="tpd6" name="duration" type="default" valuetype="int"/>
+            <taskproperty id="tpd7" name="completion" type="default" valuetype="int"/>
+            <taskproperty id="tpd8" name="coordinator" type="default" valuetype="text"/>
+            <taskproperty id="tpd9" name="predecessorsr" type="default" valuetype="text"/>
+        </taskproperties>
+        <task id="0" name="Creation de Cahier de charge : Etude de cas et de d'existence et identifier les besoins" color="#66ff33" meeting="false" start="2024-03-25" duration="1" complete="0" thirdDate="2024-05-18" thirdDate-constraint="0" expand="true"/>
+        <task id="24" name="Réalisation de rapport" color="#00ffff" meeting="false" start="2024-03-28" duration="66" complete="0" thirdDate="2024-05-18" thirdDate-constraint="0" expand="true"/>
+        <task id="20" name="Développent de code source Backend" color="#8cb6ce" meeting="false" start="2024-03-28" duration="66" complete="0" thirdDate="2024-03-28" thirdDate-constraint="0" expand="true"/>
+        <task id="39" name="Développent de code source Frontend" color="#8cb6ce" meeting="false" start="2024-03-28" duration="66" complete="0" thirdDate="2024-03-28" thirdDate-constraint="0" expand="true"/>
+        <task id="23" name="Creation de Dossier Conception et UML" meeting="false" start="2024-03-27" duration="1" complete="0" expand="true"/>
+        <task id="1" name="Difinir les problematiques" color="#33ff33" meeting="false" start="2024-03-26" duration="1" complete="0" thirdDate="2024-05-18" thirdDate-constraint="0" expand="true"/>
+        <task id="17" name="Creation du plan de developpement" color="#8cb6ce" meeting="false" start="2024-03-26" duration="1" complete="0" thirdDate="2024-05-21" thirdDate-constraint="0" expand="true"/>
+        <task id="14" name="Réalisation de présentation" color="#00ffff" meeting="false" start="2024-06-02" duration="14" complete="0" thirdDate="2024-05-17" thirdDate-constraint="0" expand="true"/>
+        <task id="15" name="Création de logo et nom" color="#8cb6ce" meeting="false" start="2024-03-25" duration="1" complete="0" thirdDate="2024-03-25" thirdDate-constraint="0" expand="true"/>
+        <task id="37" name="Présentation de projet" color="#666666" meeting="false" start="2024-06-20" duration="1" complete="0" thirdDate="2024-06-19" thirdDate-constraint="0" expand="true"/>
+        <task id="35" name="Finition de présentation" color="#666666" meeting="false" start="2024-06-19" duration="8" complete="0" thirdDate="2024-06-19" thirdDate-constraint="0" expand="true"/>
+        <task id="36" name="Finition de rapport" color="#666666" meeting="false" start="2024-06-02" duration="1" complete="0" thirdDate="2024-06-19" thirdDate-constraint="0" expand="true"/>
+        <task id="38" name="Preparation de Soutenance" meeting="false" start="2024-06-02" duration="18" complete="0" expand="true"/>
+    </tasks>
+    <resources>
+        <resource id="7" name="Youssef" function="Default:0" contacts="" phone=""/>
+        <resource id="8" name="Hamza" function="Default:0" contacts="" phone=""/>
+        <resource id="9" name="Oussama" function="Default:0" contacts="" phone=""/>
+        <resource id="10" name="Amine" function="Default:0" contacts="" phone=""/>
+        <resource id="11" name="Abdellah" function="Default:0" contacts="" phone=""/>
+    </resources>
+    <allocations>
+        <allocation task-id="20" resource-id="7" function="Default:0" responsible="true" load="100.0"/>
+        <allocation task-id="15" resource-id="7" function="Default:0" responsible="true" load="100.0"/>
+        <allocation task-id="39" resource-id="8" function="Default:0" responsible="true" load="100.0"/>
+    </allocations>
+    <vacations/>
+    <previous/>
+    <roles roleset-name="Default"/>
+</project>
