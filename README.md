@@ -76,7 +76,7 @@ Morist, Moroccan Tourist Platform
   <img alt="Postman" src="https://www.svgrepo.com/show/354202/postman-icon.svg" width="40">
 </a>
 
-	Ubuntu Server / Fedora
+	Ubuntu Server
 
 <br />
 
@@ -113,8 +113,11 @@ Morist, Moroccan Tourist Platform
   <img alt="Laravel" src="https://raw.githubusercontent.com/github/explore/56a826d05cf762b2b50ecbe7d492a839b04f3fbf/topics/laravel/laravel.png" width="40">
 </a>
 
-<a href="https://www.postgresql.org/">
+<!--a href="https://www.postgresql.org/">
   <img alt="PostgreSQL" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" width="40">
+</a-->
+<a href="https://firebase.google.com/">
+  <img alt="Firebase" src="https://miro.medium.com/v2/resize:fit:300/1*R4c8lHBHuH5qyqOtZb3h-w.png" width="40">
 </a>
 
 <a href="https://swagger.io/">
@@ -139,6 +142,18 @@ Morist, Moroccan Tourist Platform
 
 <a href="https://tailwindcss.com/">
   <img alt="Tailwind CSS" src="https://avatars.githubusercontent.com/u/30317862?s=200&v=4" width="40">
+</a>
+
+<br />
+
+<a href="https://vercel.com/">
+  <img alt="Vercel" src="https://assets.vercel.com/image/upload/front/favicon/vercel/180x180.png" width="40">
+</a>
+<a href="https://trello.com/">
+  <img alt="Trello" src="https://w7.pngwing.com/pngs/115/721/png-transparent-trello-social-icons-icon.png" width="40">
+</a>
+<a href="https://discord.com/">
+  <img alt="Discord" src="https://babbar.academy/wp-content/uploads/2023/04/discord.png" width="40">
 </a>
 
 
