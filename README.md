@@ -50,7 +50,7 @@ Morist, Moroccan Tourist Platform
 
 <br />
 
-	//Jira(agile-scrum)
+	Trello(agile-scrum)
 <a href="https://www.ganttproject.biz/">
   <img alt="GanttProject" src="https://images.sftcdn.net/images/t_app-icon-m/p/3a64ed76-96d8-11e6-a242-00163ed833e7/3970617297/ganttproject-GanttProject-icn.png" width="45">
 </a>
@@ -125,6 +125,9 @@ Morist, Moroccan Tourist Platform
 </a>
 
 <br />
+<a href="https://nextjs.org/">
+  <img alt="Next.js" src="https://www.drupal.org/files/project-images/nextjs-icon-dark-background.png" width="40">
+</a>
 <a href="https://reactjs.org/">
   <img alt="Reactjs" src="https://img.icons8.com/plasticine/48/000000/react.png" width="40">
 </a>
