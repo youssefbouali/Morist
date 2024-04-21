@@ -57,6 +57,7 @@ services:
             - laravel
 
 
+<<<<<<< HEAD
     nextjs:
         build:
             context: .
@@ -70,3 +71,33 @@ services:
             - "9400:9400"
         networks: 
             - laravel
+=======
+#    nextjs:
+#        build:
+#            context: .
+#            dockerfile: Dockerfile.nextjs
+#        container_name: nextjs
+#        restart: unless-stopped
+#        tty: true
+#        volumes: 
+#            - ./nextjs:/app
+#        ports: 
+#            - "9400:9400"
+#        networks: 
+#            - laravel
+
+
+    vitejs:
+        build:
+            context: .
+            dockerfile: Dockerfile.vitejs
+        container_name: vitejs
+        restart: unless-stopped
+        tty: true
+        volumes:
+            - ./frontend:/app
+        ports:
+            - "9400:9400"
+        networks:
+            - laravel
+>>>>>>> 150bbbe (frontV3)
