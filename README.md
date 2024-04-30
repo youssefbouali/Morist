@@ -65,7 +65,7 @@ Morist, Moroccan Tourist Platform
 </a>
 
 <a href="https://en.wikipedia.org/wiki/Unified_Modeling_Language">
-  <img alt="UML" src="https://www.opennn.net/documentation/images/uml_logo.png" width="40">
+  <img alt="UML" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/UML_logo.svg" width="40">
 </a>
 
 <a href="https://en.wikipedia.org/wiki/SQL">
@@ -125,8 +125,8 @@ Morist, Moroccan Tourist Platform
 </a>
 
 <br />
-<a href="https://nextjs.org/">
-  <img alt="Next.js" src="https://www.drupal.org/files/project-images/nextjs-icon-dark-background.png" width="40">
+<a href="https://vitejs.dev/">
+  <img alt="Vite" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Vitejs-logo.svg/1200px-Vitejs-logo.svg.png" width="40">
 </a>
 <a href="https://reactjs.org/">
   <img alt="Reactjs" src="https://img.icons8.com/plasticine/48/000000/react.png" width="40">
