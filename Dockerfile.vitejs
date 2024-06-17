@@ -13,8 +13,18 @@ WORKDIR /app
 # Copy the rest of the application code to the container
 #COPY . .
 
+# Build the application
+RUN npm run build
+
+# Install a simple HTTP server to serve the application
+RUN npm install -g serve
+
 # Expose port 9400
 EXPOSE 9400
 
 # Command to run the Next.js application
-CMD ["npm", "run", "dev"]
+#CMD ["npm", "run", "dev"]
+
+
+# Command to run the application
+CMD ["serve", "-s", "dist", "-l", "9400"]

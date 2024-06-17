@@ -81,7 +81,7 @@ Morist, Moroccan Tourist Platform
 <br />
 
 <a href="https://www.adobe.com/products/illustrator.html">
-  <img alt="Illustrator" src="https://www.adobe.com/content/dam/cc/icons/illustrator.svg" width="40">
+  <img alt="Illustrator" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/640px-Adobe_Illustrator_CC_icon.svg.png" width="40">
 </a>
 <a href="https://www.figma.com/">
   <img alt="Figma" src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" width="30">
@@ -101,7 +101,7 @@ Morist, Moroccan Tourist Platform
 </a>
 
 <a href="https://www.nginx.com/">
-  <img alt="Nginx" src="https://www.nginx.com/wp-content/uploads/2018/08/NGINX-logo-rgb-large.png" width="55"/>
+  <img alt="Nginx" src="https://quiksite.com/wp-content/uploads/2016/09/Nginx-Logo-02.png" width="55"/>
 </a>
 
 <a href="https://getcomposer.org/">
@@ -132,16 +132,16 @@ Morist, Moroccan Tourist Platform
   <img alt="Reactjs" src="https://img.icons8.com/plasticine/48/000000/react.png" width="40">
 </a>
 
-<a href="https://webpack.js.org/">
+<!--a href="https://webpack.js.org/">
   <img alt="Webpack" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/webpack/webpack.png" width="40">
 </a>
 <a href="https://babeljs.io/">
   <img alt="Babel.js" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Babel_Logo.svg/1200px-Babel_Logo.svg.png" width="40">
-</a>
+</a-->
 
-<a href="https://www.chartjs.org/">
+<!--a href="https://www.chartjs.org/">
   <img alt="Chart.js" src="https://avatars.githubusercontent.com/u/10342521?s=280&v=4" width="40">
-</a>
+</a-->
 
 <a href="https://tailwindcss.com/">
   <img alt="Tailwind CSS" src="https://avatars.githubusercontent.com/u/30317862?s=200&v=4" width="40">
@@ -149,9 +149,9 @@ Morist, Moroccan Tourist Platform
 
 <br />
 
-<a href="https://vercel.com/">
+<!--a href="https://vercel.com/">
   <img alt="Vercel" src="https://assets.vercel.com/image/upload/front/favicon/vercel/180x180.png" width="40">
-</a>
+</a-->
 <a href="https://trello.com/">
   <img alt="Trello" src="https://w7.pngwing.com/pngs/115/721/png-transparent-trello-social-icons-icon.png" width="40">
 </a>
