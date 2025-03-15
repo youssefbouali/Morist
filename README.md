@@ -6,8 +6,8 @@
 Morist, Moroccan Tourist Platform
 <!-- Web FullStack, DB Search, Devops,  Software Desktop, Mobile -->
 
-![MoristV4](https://github.com/user-attachments/assets/b16a8443-4359-445c-be34-aa6e688363bb)
-![MoristV4 (5)](https://github.com/user-attachments/assets/98af061a-9cbb-4b4c-9051-86268c092dfd)
+![screencapture-morist-mywire-org-2024-06-11-01_42_26](https://github.com/user-attachments/assets/fdfcefd9-05c7-4fea-902d-bcdcf2120f41)
+![offre](https://github.com/user-attachments/assets/e3e033c6-1b69-4fdb-8dd6-39c6e5cb7d50)
 
 ![MoristV4 (2)](https://github.com/user-attachments/assets/8c644f4c-65a9-484c-acc5-633879f56d7c)
 ![MoristV4 (1)](https://github.com/user-attachments/assets/91292630-3bd7-4fde-9738-934bd8d9241d)
